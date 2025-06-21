@@ -36,7 +36,7 @@ opencv-python
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/FaceRecognitionAttendance.git
+git clone https://github.com/Siddique-Aham/FaceRecognitionAttendance.git
 cd FaceRecognitionAttendance
 
 
@@ -61,8 +61,7 @@ Verify setup:Ensure your webcam is connected and functional.
 Project Structure
 FaceRecognitionAttendance/
 ├── data/
-│   ├── student1.jpg
-│   ├── student2.jpg
+│   ├── tim.jpg
 │   └── ...
 ├── attendance.py
 ├── requirements.txt
